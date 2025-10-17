@@ -40,7 +40,3 @@ author = {Hang Zhang and Kai Ming Ting and Ye Zhu},
 
 
 
-
-
-The 'kernel_kkm.py' is source from [KIMM](https://github.com/maxf14/explaining_kernel_clustering/tree/main)
-
