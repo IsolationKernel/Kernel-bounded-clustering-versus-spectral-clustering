@@ -1,4 +1,14 @@
 function [TTclass, mean_i] = EC_sample(ndata,K,tau,k,sID)
+
+%% IKBC：@hang
+% ---------------------------------------------------------------
+% |  ndata is the feature map of data.                          |
+% |  K is the sim matrix of the s points sampled from data.     | 
+% |  tau is thyrold of sim.                                     |
+% |  k is the number of clusters.                               |  
+% |  sID is the index of s points.                              |
+% ---------------------------------------------------------------
+
 K_g = K>=tau;
 G = graph(K_g);
 [Tclass, number] = conncomp(G);
@@ -43,4 +53,5 @@ TTclass = Tclass;
 else
     TTclass = zeros(size(ndata,1),1)+1;
     mean_i = ndata(1:k,:);
+
 end
