@@ -8,6 +8,10 @@ This is the code of the paper Kernel-Bounded Clustering: Achieving the Objective
 
 ```bash
 MATLAB R2023a
+```
+
+Recommendation
+```bash
 Python: pip install kbc-clustering
 ```
 
