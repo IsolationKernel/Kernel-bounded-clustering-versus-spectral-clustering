@@ -8,13 +8,26 @@ This is the code of the paper Kernel-Bounded Clustering: Achieving the Objective
 
 ```bash
 MATLAB R2023a
+Python: pip install kbc-clustering
 ```
+
+
+
 
 # Usage
 ---
-
+Matlab: 
 *codes/demo_nss_kbc.m* gives an example of clustering using $NSS$-KBC, and *codes/EC_sample.m* implements the $NSS$-KBC algorithm.
 
+---
+```python
+from kbc import KBC
+import numpy as np
+
+X = np.random.rand(1000, 50)
+model = KBC(k=5, tau=0.4, psi=64, random_state=42)
+labels = model.fit_predict(X)
+```
 
 
 # License
