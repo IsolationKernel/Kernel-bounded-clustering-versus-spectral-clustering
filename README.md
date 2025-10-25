@@ -2,7 +2,7 @@ This is the code of the paper [Kernel-Bounded Clustering: Achieving the Objectiv
 
 
 ## Paper
-# [![PDF](https://img.shields.io/badge/PDF-KBCAIJ2025-red.svg)](https://github.com/IsolationKernel/.github/blob/main/profile/PDF/KBCAIJ2025.pdf)  [![Journal](https://img.shields.io/badge/Journal-AIJ-blue.svg)]([https://www.sciencedirect.com/journal/artificial-intelligence](https://www.sciencedirect.com/science/article/pii/S0004370225001596))
+# [![PDF](https://img.shields.io/badge/PDF-KBCAIJ2025-red.svg)](https://github.com/IsolationKernel/.github/blob/main/profile/PDF/KBCAIJ2025.pdf)  [![Journal](https://img.shields.io/badge/Journal-AIJ-blue.svg)](https://www.sciencedirect.com/science/article/pii/S0004370225001596)
 
 # Dependencies
 ---
