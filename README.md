@@ -1,4 +1,4 @@
-This is the code of the paper Kernel-Bounded Clustering: Achieving the Objective of Spectral Clustering without Eigendecomposition
+This is the code of the paper [Kernel-Bounded Clustering: Achieving the Objective of Spectral Clustering without Eigendecomposition](https://github.com/IsolationKernel/.github/blob/main/profile/PDF/KBCAIJ2025.pdf)
 
 
 
