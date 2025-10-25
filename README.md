@@ -13,7 +13,7 @@ MATLAB R2023a
 
 Recommendation
 ```bash
-Python: pip install kbc-clustering
+Python: `pip install kbc-clustering` • [PyPI](https://pypi.org/project/kbc-clustering/)
 ```
 
 
