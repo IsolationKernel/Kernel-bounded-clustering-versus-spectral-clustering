@@ -44,15 +44,14 @@ License.
 Hang Zhang and Kai Ming Ting and Ye Zhu. [Kernel-Bounded Clustering: Achieving the Objective of Spectral Clustering without Eigendecomposition]([https://google.comninini](https://doi.org/10.1016/j.artint.2025.104440)). Artificial Intelligence.
 
 ```
-@article{ZHANG2025104440,
-title = {Kernel-Bounded Clustering: Achieving the Objective of Spectral Clustering without Eigendecomposition},
-journal = {Artificial Intelligence},
-pages = {104440},
-year = {2025},
-issn = {0004-3702},
-doi = {https://doi.org/10.1016/j.artint.2025.104440},
-url = {https://www.sciencedirect.com/science/article/pii/S0004370225001596},
-author = {Hang Zhang and Kai Ming Ting and Ye Zhu},
+@article{zhang2025kernel,
+  title={Kernel-Bounded Clustering: Achieving the Objective of Spectral Clustering without Eigendecomposition},
+  author={Zhang, Hang and Ting, Kai Ming and Zhu, Ye},
+  journal={Artificial Intelligence},
+  pages={104440},
+  year={2025},
+  publisher={Elsevier}
+}
 ```
 
 
