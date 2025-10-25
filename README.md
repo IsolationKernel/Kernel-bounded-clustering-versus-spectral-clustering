@@ -10,7 +10,7 @@ This is the code of the paper [Kernel-Bounded Clustering: Achieving the Objectiv
 MATLAB R2023a
 ```
 
-Recommendation  [![Pypi](https://img.shields.io/badge/Pypi-blue.svg)](https://pypi.org/project/kbc-clustering/)
+[![Pypi](https://img.shields.io/badge/Pypi-blue.svg)](https://pypi.org/project/kbc-clustering/)
 ```bash
 Python: pip install kbc-clustering
 ```
